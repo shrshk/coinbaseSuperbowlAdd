@@ -19,7 +19,8 @@
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-qr-code": "^2.0.3"
   },
   "devDependencies": {
     "eslint": "latest",
