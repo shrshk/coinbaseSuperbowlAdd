@@ -3,7 +3,7 @@ import Box from '@mui/material/Box';
 import QRCode from 'react-qr-code';
 import {useEffect, useRef} from "react";
 
-const colors = ["#AD1EC2", "#D36EA6", "#D0BDD1", "#83BD16", "#16BDB1"];
+const colors = ["#800080", "#008000", "#808000", "#FFFF00", "#00FFFF"];
 
 const ballSize = 200;
 
